@@ -3,7 +3,7 @@
   "version": "0.0.12",
   "main": "dist/rx.angular.js",
   "dependencies": {
-    "rxjs": "*"
+    "rxjs": "Parsimotion/RxJS#0ffb8d920a752ec9c531f6d3b13798e9a6cc46df"
   },
   "ignore": [
     ".*",
